@@ -1,0 +1,5 @@
+XSym
+0049
+9a18c638de2678b1b4a8c8c72b7a6b05
+../../../EDStarRating/EDStarRating/EDStarRating.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
